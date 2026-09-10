@@ -1,2 +1,2 @@
 # stats-507
-projects and coursework
+This repository contains coursework and projects for STATS 507.
